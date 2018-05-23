@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="textview_name">Name</string>
+    <string name="Copyright">Copyright @h242yang</string>
+    <string name="welcome_page_button_name">Next</string>
+    <string name="title_activity_topic">Topic Selection</string>
+    <string name="title_question">Question</string>
+    <string name="title_result">Result</string>
+
+    <string-array name="number_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
